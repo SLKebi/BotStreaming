@@ -10,3 +10,8 @@
 - historymember ( hiện thị toàn bộ lịch sử người đăng ký membership ) / Paid User
 - historysuperchat ( hiện thị toàn bộ người đã superchat cho bạn ) / Paid user
 - historysupersticker ( hiện thị toàn bộ người đã donate tiền bằng sticker ) / Paid User
+
+# Streamer.bot
+- Import Config ( tải config streaming bot bạn lên Bot Streaming Discord Sẽ Host Hộ bạn ) / Paid User
+- Syn Setting ( tất cả config bạn setup trên app sẽ được đồng bộ hóa theo thời gian thực ) / Paid User
+- command syn ( tất cả command của bạn setup để sử dụng được trên kênh bạn live stream ) / Paid User

@@ -20,3 +20,5 @@
 - Import Config ( tải config streaming bot bạn lên Bot Streaming Discord Sẽ Host Hộ bạn ) / Paid User
 - Syn Setting ( tất cả config bạn setup trên app sẽ được đồng bộ hóa theo thời gian thực ) / Paid User
 - command syn ( tất cả command của bạn setup để sử dụng được trên kênh bạn live stream ) / Paid User
+
+# Fanpage Api

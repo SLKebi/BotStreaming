@@ -1,5 +1,8 @@
 # BotStreaming Project Not Open Source
 
+> Api bản quyền của ifttt.com
+
+
 # Youtube Streaming Api
 - Subcribe Notifer On Channel Discord ( có thể liên kết với obs ) / Free user
 - Like Notifer On Discord ( có thể liên kết với obs hiện overlay ) / Free user
